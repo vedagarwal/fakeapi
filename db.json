@@ -2,15 +2,15 @@
   "banks": [
     {
       "id": 1,
-      "name": "RBS"
+      "bankName": "RBS"
     },
     {
       "id": 2,
-      "name": "Natwest"
+      "bankName": "Natwest"
     },
     {
       "id": 3,
-      "name": "Citi"
+      "bankName": "Citi"
     }
   ],
   "profile": {
