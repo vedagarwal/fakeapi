@@ -1,0 +1,19 @@
+{
+  "banks": [
+    {
+      "id": 1,
+      "name": "RBS"
+    },
+    {
+      "id": 1,
+      "name": "Natwest"
+    },
+    {
+      "id": 1,
+      "name": "Citi"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
