@@ -105,5 +105,71 @@
       "accountType": "current",
       "accountSubType": "silver"
     }
+  ],
+
+  "transactions" : [
+    {
+      "accountId": 774989214,
+      "amount": 245.8075,
+      "currency": "GBP",
+      "creditDebitIndicator": "credit",
+      "bookingDateTime": "2018-02-28T03:45:12 -04:00"
+    },
+    {
+      "accountId": 385899118,
+      "amount": 911.0127,
+      "currency": "GBP",
+      "creditDebitIndicator": "debit",
+      "bookingDateTime": "2015-06-24T08:57:05 -04:00"
+    },
+    {
+      "accountId": 918022694,
+      "amount": 344.7512,
+      "currency": "GBP",
+      "creditDebitIndicator": "debit",
+      "bookingDateTime": "2014-05-13T02:39:48 -04:00"
+    },
+    {
+      "accountId": 807614851,
+      "amount": 983.8952,
+      "currency": "GBP",
+      "creditDebitIndicator": "credit",
+      "bookingDateTime": "2017-12-26T03:12:27 -04:00"
+    },
+    {
+      "accountId": 264838120,
+      "amount": 70.2517,
+      "currency": "GBP",
+      "creditDebitIndicator": "debit",
+      "bookingDateTime": "2016-09-29T09:03:36 -04:00"
+    },
+    {
+      "accountId": 319743491,
+      "amount": 576.4199,
+      "currency": "GBP",
+      "creditDebitIndicator": "credit",
+      "bookingDateTime": "2015-06-29T06:24:35 -04:00"
+    },
+    {
+      "accountId": 786056242,
+      "amount": 203.9313,
+      "currency": "GBP",
+      "creditDebitIndicator": "credit",
+      "bookingDateTime": "2019-05-14T05:15:15 -04:00"
+    },
+    {
+      "accountId": 210138892,
+      "amount": 859.788,
+      "currency": "GBP",
+      "creditDebitIndicator": "credit",
+      "bookingDateTime": "2017-12-29T03:29:18 -04:00"
+    },
+    {
+      "accountId": 898262003,
+      "amount": 558.4038,
+      "currency": "GBP",
+      "creditDebitIndicator": "debit",
+      "bookingDateTime": "2015-06-18T09:36:42 -04:00"
+    }
   ]
 }
