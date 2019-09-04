@@ -11,9 +11,99 @@
     {
       "id": 3,
       "bankName": "Citi"
+    },
+    {
+      "id": 904349096,
+      "bankName": "EARBANG"
+    },
+    {
+      "id": 202609542,
+      "bankName": "PULZE"
+    },
+    {
+      "id": 990136124,
+      "bankName": "KINDALOO"
+    },
+    {
+      "id": 486259615,
+      "bankName": "TOURMANIA"
+    },
+    {
+      "id": 976003285,
+      "bankName": "KONNECT"
+    },
+    {
+      "id": 512548624,
+      "bankName": "VIASIA"
+    },
+    {
+      "id": 929346902,
+      "bankName": "GEEKUS"
+    },
+    {
+      "id": 521345522,
+      "bankName": "SPLINX"
     }
   ],
+
   "profile": {
     "name": "typicode"
-  }
+  },
+
+  "accounts" : [
+    {
+      "accountId": 378083056,
+      "currency": "GBP",
+      "accountType": "savings",
+      "accountSubType": "gold"
+    },
+    {
+      "accountId": 886802358,
+      "currency": "GBP",
+      "accountType": "loan",
+      "accountSubType": "silver"
+    },
+    {
+      "accountId": 554756595,
+      "currency": "GBP",
+      "accountType": "loan",
+      "accountSubType": "silver"
+    },
+    {
+      "accountId": 615263815,
+      "currency": "GBP",
+      "accountType": "savings",
+      "accountSubType": "silver"
+    },
+    {
+      "accountId": 819436406,
+      "currency": "GBP",
+      "accountType": "savings",
+      "accountSubType": "silver"
+    },
+    {
+      "accountId": 844104571,
+      "currency": "GBP",
+      "accountType": "current",
+      "accountSubType": "silver"
+    },
+    {
+      "accountId": 848974230,
+      "currency": "GBP",
+      "accountType": "loan",
+      "accountSubType": "silver"
+    },
+    {
+      "accountId": 576762504,
+      "currency": "GBP",
+      "accountType": "current",
+      "accountSubType": "silver"
+    },
+    {
+      "accountId": 431476361,
+      "currency": "GBP",
+      "accountType": "current",
+      "accountSubType": "silver"
+    }
+  ]
 }
