@@ -52,54 +52,63 @@
 
   "accounts" : [
     {
+      "bankName": "Barclays",
       "accountId": 378083056,
       "currency": "GBP",
       "accountType": "savings",
       "accountSubType": "gold"
     },
     {
+      "bankName": "Natwest",
       "accountId": 886802358,
       "currency": "GBP",
       "accountType": "loan",
       "accountSubType": "silver"
     },
     {
+      "bankName": "RBS",
       "accountId": 554756595,
       "currency": "GBP",
       "accountType": "loan",
       "accountSubType": "silver"
     },
     {
+      "bankName": "Barclays",
       "accountId": 615263815,
       "currency": "GBP",
       "accountType": "savings",
       "accountSubType": "silver"
     },
     {
+      "bankName": "Barclays",
       "accountId": 819436406,
       "currency": "GBP",
       "accountType": "savings",
       "accountSubType": "silver"
     },
     {
+      "bankName": "Natwest",
       "accountId": 844104571,
       "currency": "GBP",
       "accountType": "current",
       "accountSubType": "silver"
     },
     {
+      "bankName": "Natwest",
       "accountId": 848974230,
       "currency": "GBP",
       "accountType": "loan",
       "accountSubType": "silver"
     },
     {
+      "bankName": "Barclays",
       "accountId": 576762504,
       "currency": "GBP",
       "accountType": "current",
       "accountSubType": "silver"
     },
     {
+      "bankName": "Barclays",
       "accountId": 431476361,
       "currency": "GBP",
       "accountType": "current",
