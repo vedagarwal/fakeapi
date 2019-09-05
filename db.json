@@ -52,67 +52,44 @@
 
   "accounts" : [
     {
-      "bankName": "Barclays",
-      "accountId": 378083056,
-      "currency": "GBP",
-      "accountType": "savings",
-      "accountSubType": "gold"
-    },
-    {
-      "bankName": "Natwest",
-      "accountId": 886802358,
-      "currency": "GBP",
-      "accountType": "loan",
-      "accountSubType": "silver"
-    },
-    {
       "bankName": "RBS",
-      "accountId": 554756595,
-      "currency": "GBP",
-      "accountType": "loan",
-      "accountSubType": "silver"
-    },
-    {
-      "bankName": "Barclays",
-      "accountId": 615263815,
+      "accountId": 900116396,
       "currency": "GBP",
       "accountType": "savings",
-      "accountSubType": "silver"
+      "accountSubType": "gold",
+      "balance": 2219.18
     },
     {
       "bankName": "Barclays",
-      "accountId": 819436406,
-      "currency": "GBP",
-      "accountType": "savings",
-      "accountSubType": "silver"
-    },
-    {
-      "bankName": "Natwest",
-      "accountId": 844104571,
+      "accountId": 475244718,
       "currency": "GBP",
       "accountType": "current",
-      "accountSubType": "silver"
+      "accountSubType": "silver",
+      "balance": 4413.47
     },
     {
-      "bankName": "Natwest",
-      "accountId": 848974230,
+      "bankName": "Barclays",
+      "accountId": 132497314,
       "currency": "GBP",
       "accountType": "loan",
-      "accountSubType": "silver"
+      "accountSubType": "gold",
+      "balance": 2331.4
     },
     {
       "bankName": "Barclays",
-      "accountId": 576762504,
+      "accountId": 976714745,
       "currency": "GBP",
       "accountType": "current",
-      "accountSubType": "silver"
+      "accountSubType": "gold",
+      "balance": 3866.93
     },
     {
-      "bankName": "Barclays",
-      "accountId": 431476361,
+      "bankName": "NatWest",
+      "accountId": 102606390,
       "currency": "GBP",
       "accountType": "current",
-      "accountSubType": "silver"
+      "accountSubType": "gold",
+      "balance": 4491.43
     }
   ],
 
